@@ -1,0 +1,19 @@
+for i in range(10):
+    print(i)
+
+print("For Loops Understood")
+
+
+print("In-Branching")
+
+
+print("Bonus : While Loop ")
+
+i = 0
+
+while(true):
+    if (i == 10):
+	break    
+    print(i)
+    i = i + 1
+    
